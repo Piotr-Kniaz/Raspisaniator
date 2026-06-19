@@ -4,7 +4,9 @@
 
 <img width="692" alt="Project Banner" src="Pictures/Banner.png"/>
 
-**Актуальная версия:** 0.1 (1) – [СКАЧАТЬ](https://github.com/Piotr-Kniaz/Raspisaniator/releases/latest)
+**Актуальная версия:** 0.1 (1)
+
+[СКАЧАТЬ](https://github.com/Piotr-Kniaz/Raspisaniator/releases/latest)
 
 </div>
 
